@@ -15,6 +15,7 @@ The field of cybersecurity excites me because it allows me to make a real impact
 - **Play it Safe: Manage Security Risk**
 - **Connect and Protect: Network and Network Security**
 - **Tools of the Trade: Linux and SQL**
+- **Assets, Threats, and Vulnerabilities**
 
 ### Courses' activities
 <a href="https://github.com/KevinContrers/Botium-Toys">Botium Toys: Scope, goals, and risk assessment
