@@ -1,5 +1,8 @@
 # Google Coursera Cybersecurity Professional Certificate
-link here
+
+https://www.coursera.org/professional-certificates/google-cybersecurity
+
+(Link of actual diploma will be displayed at the end of October)
 
 ## Professional Statement
 
