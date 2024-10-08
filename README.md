@@ -22,6 +22,8 @@ report </a>
 
 <a href="https://github.com/KevinContrers/Incident-Report">Cybersecurity Incident report </a>
 
+<a href="https://github.com/KevinContrers/Data-Leak">Data Leak and Principle of Least Privilege</a>
+
 <a href="https://github.com/KevinContrers/Cybersecurity-Analysis">DDoS Attack and Network Security Improvement Plan</a>
 
 <a href="https://github.com/KevinContrers/File-Permission">File Permissions in Linux</a>
