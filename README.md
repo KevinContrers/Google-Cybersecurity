@@ -10,9 +10,13 @@ My values of dedication to learning and integrity guide me in all my endeavors. 
 The field of cybersecurity excites me because it allows me to make a real impact by protecting organizations from digital threats. By combining my strengths, values, and interest in cybersecurity, I can support organizations in achieving their security goals. I am eager to contribute to teams dedicated to securing infrastructures, ensuring compliance, and minimizing risks in an ever-evolving digital landscape.
 
 ## Courses
+
 - **Foundations of Cyber Security**
 - **Play it Safe: Manage Security Risk**
 - **Connect and Protect: Network and Network Security**
 - **Tools of the Trade: Linux and SQL**
 
 ### Courses' activities
+
+Botium Toys: Scope, goals, and risk assessment
+report
