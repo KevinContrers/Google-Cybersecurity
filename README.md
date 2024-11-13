@@ -21,7 +21,7 @@ The field of cybersecurity excites me because it allows me to make a real impact
 - **Assets, Threats, and Vulnerabilities**
 
 ### Courses' activities
-<a href="https://github.com/KevinContrers/VulnerabilityAsses">Vulnerability Assessment Report </a>
+<a href="https://github.com/KevinContrers/VulnerabilityAssess">Vulnerability Assessment Report </a>
 
 <a href="https://github.com/KevinContrers/Botium-Toys">Botium Toys: Scope, goals, and risk assessment
 report </a>
