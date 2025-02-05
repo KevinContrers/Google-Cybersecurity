@@ -18,6 +18,9 @@ The field of cybersecurity excites me because it allows me to make a real impact
 - **Connect and Protect: Network and Network Security**
 - **Tools of the Trade: Linux and SQL**
 - **Assets, Threats, and Vulnerabilities**
+- **Sound the Alarm: Detection and Response**
+- **Automate Cybersecurity Tasks with Python**
+- **Put It to Work: Prepare for Cybersecurity Jobs**
 
 ### Courses' activities
 <a href="https://github.com/KevinContrers/VulnerabilityAssess">Vulnerability Assessment Report </a>
