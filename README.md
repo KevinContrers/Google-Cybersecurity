@@ -2,6 +2,7 @@
 
 [https://www.coursera.org/professional-certificates/google-cybersecurity](https://coursera.org/share/78f15a56658b330d32eadbcc803ee3b1)
 
+<img src="./Coursera.png" alt="Alt Text" width="400"/>   
 
 ## Professional Statement
 
